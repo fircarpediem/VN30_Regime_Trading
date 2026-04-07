@@ -1,0 +1,16 @@
+#Data
+pandas
+numpy
+
+#Vietname Stock Data API
+vnstock==0.2.28.2
+
+#Machine learning
+hmmlearn
+scikit-learn
+
+#Backtesting
+vectorbt
+matplotlib
+seaborn
+nbformat>=4.2.0
